@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Huzaifa",
+      "lastName": "Ali",
+      "emailAddress": "madad@gmail.com",
+      "phoneNumber": "0312234784",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "isPaid": true
+    },
+    {
+      "firstName": "Farhan",
+      "lastName": "Khan",
+      "emailAddress": "huzaifa@gmail.com",
+      "phoneNumber": "+923480204890",
+      "city": "asd",
+      "country": "Pakistan",
+      "isPaid": false,
+      "id": 2
+    }
+  ]
+}
